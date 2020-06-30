@@ -1,11 +1,7 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
 body {
   background-color: #000;
+  margin: 0;
+  padding: 0;
 }
 
 .blue-block,
@@ -20,6 +16,7 @@ body {
   background-color: #308dc0;
   margin: 20px;
   margin-bottom: 40px;
+  box-sizing: border-box;
 }
 
 .orange-block {
